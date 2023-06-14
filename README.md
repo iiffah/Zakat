@@ -1,4 +1,3 @@
-# Zakat
 # Zakat Calculator
 
 Author: Anas Tawalbeh
